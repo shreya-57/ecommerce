@@ -1,0 +1,14 @@
+.logo-index{
+    width: 30%;
+}
+
+.card-img-top{
+    height:300px;
+    width: 100%;
+    object-fit: cover;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
